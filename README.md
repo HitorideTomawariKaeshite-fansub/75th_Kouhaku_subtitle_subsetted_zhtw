@@ -13,4 +13,5 @@ This work is licensed under a
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
 # 75th_kouhaku_cht_subtitles_subsetted
+聯合字幕。一人繞遠路回家字幕組僅作為寄存者，不正式書名。
 適用於NHK BSP4K的第75屆紅白歌唱大賽繁體中文字幕。請不要使用potplayer及與其類似的播放器播放。已經完成字幕字型子集化，無須安裝額外的字型檔。
